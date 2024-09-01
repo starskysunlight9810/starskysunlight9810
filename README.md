@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @starskysunlight9810
+- 👋 Hi, I’m Xinkai Zhou @starskysunlight9810
 - 👀 I am interested in methods and new computational technologies in bioinformatics
 - 🌱 I am currently learning deep learning methods for mining potential features in genome data\
 - 💞️ I’m looking to collaborate on data visualiztion using Javascript framework such as D3.js
